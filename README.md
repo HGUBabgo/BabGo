@@ -1,4 +1,4 @@
-# BabGo
+<img src="https://drive.google.com/uc?id=1YAWCcYLR0TODlpx5TQKgIppZgQZV_41B" width="80%" height="80%"/>
 
 - 프로젝트 주제 : 팀플과 밥고 시간을 정할 수 있게 하는 앱 개발/설계 <br>
 - 프로젝트에 대한 소개 : 팀으로 하는 프로젝트와 혼밥을 하기 싫은 대학생들이 보다 쉽게 약속 시간을 정할 수 있도록 도와주는 앱 <br>
