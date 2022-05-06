@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#include <stdlib.h>
 
 typedef struct{
 	char name[30];
@@ -13,6 +14,7 @@ typedef struct{
 	int sat[20];
 } Time;
 
+int setTimeDay(Time *t);
 int createTime(Time *t);
 void readTime(Time *t);
 int updateTime(Time *t);
