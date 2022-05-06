@@ -33,3 +33,18 @@ int createTime(Time *t){
         setTimeDay(t);
         return 0;
 }
+
+
+void readTime(Time *t){
+
+};
+
+
+int updateTime(Time *t){
+
+};
+
+
+int deleteTime(Time *t){
+	
+};
