@@ -17,5 +17,5 @@ typedef struct{
 int setTimeDay(Time *t);
 int createTime(Time *t);
 void readTime(Time *t);
-int updateTime(Time *t);
-int deleteTime(Time *t);
+int updateTime(Time **t,int count);
+int deleteTime(Time **t,int count);
